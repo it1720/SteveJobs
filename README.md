@@ -1,2 +1,1 @@
-# SteveJobs
-Page about Steve Jobs
+# Web application - Steve Jobs
